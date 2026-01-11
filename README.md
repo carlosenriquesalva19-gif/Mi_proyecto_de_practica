@@ -22,3 +22,14 @@ trabajar en equipo y mejorar continuamente mis habilidades técnicas.
 
 ## Experiencia Previa
 Estoy comenzando mi camino en la programación web y tengo muchas ganas de aprender, pero hasta el momento ise mis proyectos academicos y otras practicas que me dan para desarrollar.
+
+
+## 🎮 Hobbies
+- Videojuegos
+- Música
+- Aprender tecnología
+
+## 🎯 Metas 2026
+- Crear mi primera aplicación web
+- Conseguir mi primer trabajo como desarrollador
+
